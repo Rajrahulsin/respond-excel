@@ -72,8 +72,8 @@ The script generates an Excel file named "Banking_Blockchain_Survey_Responses.xl
 
 ## License
 
-[Add your chosen license here]
+[non]
 
 ## Author
 
-[Add your name/contact information here]
+[Rahul Raj Singh]
